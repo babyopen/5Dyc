@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.backup_*
+lottery_data_backup.json
+
+# Large data files (optional - uncomment if needed)
+# lottery_data.json
+
+# Pickle models (uncomment if you don't want to upload model files)
+# *.pkl
+
+# Logs
+*.log
