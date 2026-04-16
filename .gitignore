@@ -27,7 +27,8 @@ Thumbs.db
 
 # Backup files
 *.backup_*
-lottery_data_backup.json
+data/lottery_data_backup.json
+data/*.backup_*
 
 # Large data files (optional - uncomment if needed)
 # lottery_data.json
