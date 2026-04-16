@@ -70,7 +70,7 @@ def main():
     
     # 1. 加载本地数据
     print("\n【步骤1】加载本地数据...")
-    df = LocalDataLoader.load_from_json('lottery_data.json')
+    df = LocalDataLoader.load_from_json('data/lottery_data.json')
     
     if df.empty:
         print("❌ 无数据，退出")
