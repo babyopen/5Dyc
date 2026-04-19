@@ -6621,6 +6621,20 @@
       ],
       "special_number": 45,
       "special_zodiac": 9
+    },
+    {
+      "period": "2026109",
+      "draw_time": "2026-04-19 21:32:32",
+      "normal_numbers": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "special_number": 16,
+      "special_zodiac": 4
     }
   ]
 ]
