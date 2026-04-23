@@ -6663,6 +6663,34 @@
       ],
       "special_number": 1,
       "special_zodiac": 1
+    },
+    {
+      "period": "2026112",
+      "draw_time": "2026-04-22 21:32:32",
+      "normal_numbers": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "special_number": 9,
+      "special_zodiac": 9
+    },
+    {
+      "period": "2026113",
+      "draw_time": "2026-04-23 21:32:32",
+      "normal_numbers": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "special_number": 2,
+      "special_zodiac": 2
     }
   ]
 ]
